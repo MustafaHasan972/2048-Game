@@ -61,3 +61,17 @@ h1.title {
     opacity: 0;
   }
 }
+
+.score-container {
+  position: relative;
+  float: right;
+  background: #bbada0;
+  padding: 15px 25px;
+  font-size: 25px;
+  height: 25px;
+  line-height: 47px;
+  font-weight: bold;
+  border-radius: 3px;
+  color: white;
+  margin-top: 8px;
+}
