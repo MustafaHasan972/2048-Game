@@ -280,54 +280,96 @@ hr {
 
 .tile.tile-position-1-1 {
   position: absolute;
-  top: 0px;
   left: 0px;
+  top: 0px;
 }
 
 .tile.tile-position-1-2 {
   position: absolute;
-  top: 0px;
-  left: 121px;
+  left: 0px;
+  top: 121px;
 }
 
 .tile.tile-position-1-3 {
   position: absolute;
-  top: 0px;
-  left: 243px;
+  left: 0px;
+  top: 243px;
 }
 
 .tile.tile-position-1-4 {
   position: absolute;
-  top: 0px;
-  left: 364px;
+  left: 0px;
+  top: 364px;
 }
 
 .tile.tile-position-2-1 {
   position: absolute;
-  top: 121px;
-  left: 0px;
+  left: 121px;
+  top: 0px;
 }
 
 .tile.tile-position-2-2 {
   position: absolute;
-  top: 121px;
   left: 121px;
+  top: 121px;
 }
 
 .tile.tile-position-2-3 {
   position: absolute;
-  top: 121px;
-  left: 243px;
+  left: 121px;
+  top: 243px;
 }
 
 .tile.tile-position-2-4 {
   position: absolute;
-  top: 121px;
-  left: 364px;
+  left: 121px;
+  top: 364px;
 }
 
 .tile.tile-position-3-1 {
   position: absolute;
+  left: 243px;
+  top: 0px;
+}
+
+.tile.tile-position-3-2 {
+  position: absolute;
+  left: 243px;
+  top: 121px;
+}
+
+.tile.tile-position-3-3 {
+  position: absolute;
+  left: 243px;
   top: 243px;
-  left: 0px;
+}
+
+.tile.tile-position-3-4 {
+  position: absolute;
+  left: 243px;
+  top: 364px;
+}
+
+.tile.tile-position-4-1 {
+  position: absolute;
+  left: 364px;
+  top: 0px;
+}
+
+.tile.tile-position-4-2 {
+  position: absolute;
+  left: 364px;
+  top: 121px;
+}
+
+.tile.tile-position-4-3 {
+  position: absolute;
+  left: 364px;
+  top: 243px;
+}
+
+.tile.tile-position-4-4 {
+  position: absolute;
+  left: 364px;
+  top: 364px;
 }
