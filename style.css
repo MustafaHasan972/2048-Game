@@ -135,4 +135,49 @@ hr {
   margin: 0 auto;
 }
 
-/* continue 11:45 */
+@-webkit-keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.game-container {
+  margin-top: 10px;
+  position: relative;
+  padding: 15px;
+  cursor: default;
+  -webkit-touch-callout: none;
+  user-select: none;
+  -moz-user-select: none;
+  background: #bbada0;
+  border-radius: 6px;
+  width: 500px;
+  height: 500px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
